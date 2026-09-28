@@ -9,7 +9,7 @@
 ### 🛠️ Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,cpp,ts,django,html,css,js,postgres,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,ts,django,html,css,js,postgres,git,github,docker,spring" />
 </p>
 
 **Linguagens:** Java · Python · C++ · TypeScript
